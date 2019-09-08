@@ -1,6 +1,6 @@
 # AIAllergy_Database_Creator
 
-SQL recipe database generated using Edadame API for PennApps 2019f submission "AI Allergy". Created by front-end and SQL engineer, Salih Shah.
+SQL recipe database generated using Edadame API for PennApps 2019f submission "AI Allergy". Created by front-end and SQL engineer, Sahil Shah.
 
 ## Contents
 
